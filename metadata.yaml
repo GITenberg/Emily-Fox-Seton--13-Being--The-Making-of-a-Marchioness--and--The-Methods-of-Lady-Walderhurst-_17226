@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/73
     wikipedia: http://en.wikipedia.org/wiki/Frances_Hodgson_Burnett
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17226#Emily-Fox-Seton--13-Being--The-Making-of-a-Marchioness--and--The-Methods-of-Lady-Walderhurst-
 gutenberg_issued: '2005-12-05'
 gutenberg_type: Text
 identifiers:
